@@ -487,10 +487,7 @@ h2 {
 /* 650 */
 
 @media (max-width: 650px) {
-  /* .top-section {
-        height: 70%;
-        background-position: 20% 0;
-    } */
+  
   .button-nav button {
     width: 115px;
   }
@@ -647,10 +644,7 @@ h2 {
 /* 450 */
 
 @media (max-width: 450px) {
-  /* .top-section {
-        height: 50%;
-        background-position: 20% 0;
-    } */
+ 
   .logo .text-logo {
     font-size: 25%;
   }
