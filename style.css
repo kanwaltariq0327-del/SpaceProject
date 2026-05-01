@@ -359,7 +359,7 @@ h2 {
     }
   }
   .nav-bar input:checked ~ .anchors {
-    animation: animate 0.1s ease-in-out 0 1 forwards;
+    animation: animate 0.1s ease-in-out 0.1s 1 forwards;
   }
 
   .anchors a {
